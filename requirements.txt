@@ -1,0 +1,5 @@
+numpy
+sklearn
+scipy
+tensorflow==1.3.0
+tqdm
